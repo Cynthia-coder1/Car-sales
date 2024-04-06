@@ -5,14 +5,13 @@
 - [Recommendations](#recommendations)
 
 ### project overview
-This data analysis project provides insight into car sales performance of nashville housing company over the past year. By analysing various aspects of the sales , we gain deeper understanding of the company's performance and make decisions to improve company sales .
+This data analysis project provides insight into car sales over the year. By analysing various aspects of the sales , we gain deeper understanding of the company's performance and make decisions to improve company sales .
 
 ### Data Source 
-Sales data : This dataset used for this analysis is "Nashville Housing.csv"  file which contains detailed information about each sales made by the company.
+Sales data : This dataset used for this analysis is "Car_sales.csv" file which contains detailed information about each sales made by the company including customer names amd dealers .
 
 ### Tools
-- Python - Utilized python for data cleaning demonstrating proficiency in extracting insights.
-- Excel - Data visualisation. 
+- Excel  - Utilized Excel for data cleaning/transformation and Data visualisation. 
 
 ### Data cleaning/ Preparation 
 In the data preparation phase , we performed the following tasks :
@@ -24,18 +23,10 @@ In the data preparation phase , we performed the following tasks :
 ### Exploratory data analysis 
 EDA involved exploring the sales data to answer key question such as  :
 
-- Which PropertyType is sold the most?
-- Which tax district is generating more
-    Revenue?
+- Which company sold the most cars?
+- Which region is generating more Revenue?
 - Which city is generating the highest revenue and which city is generatingbthe lowest revenue?
 
-### Data analysis
-Includes some interesting codes/ features worked with 
-
-```Python
-df.dropna(inplace = True)
-df.sort_values( )
-```
 ###  Results/Findings
 The analysis results are summarised as follows :
 
